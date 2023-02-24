@@ -2,7 +2,7 @@
   "name": "royal-red-theme",
   "publisher": "AJ-Dev",
   "displayName": "Royal Red Theme",
-  "description": "This theme is inspired by Royal palace with red cushioning and golden artifacts.",
+  "description": "Royal Theme inspired by palace with red cushioning and golden artifacts.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
@@ -27,5 +27,8 @@
         "path": "./themes/Royal Red Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/ayushgoyal415/royal-red-theme.git"
   }
 }
