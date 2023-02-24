@@ -1,10 +1,10 @@
 # Royal Red Theme
 
 ## Vibrant Syntax Highlighting
-![](screenshots/editorWithSideBar.png)
+![](editor.png)
 
 ## Brilliant Shadows
-![](screenshots/multi-sidebar.png)
+![](shadow.png)
 
 
 ## Installation
