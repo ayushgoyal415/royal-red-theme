@@ -3,7 +3,7 @@
   "publisher": "AJ-Dev",
   "displayName": "Royal Red Theme",
   "description": "Royal Theme inspired by palace with red cushioning and golden artifacts.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.75.0"
   },
