@@ -320,7 +320,7 @@
   },
 
   "tokenColors": [
-    //. Meta tags
+    // Meta tags
     {
       "scope": "meta.embedded, source.groovy.embedded, meta.image.inline.markdown",
       "settings": { "foreground": "#D4D4D4" }
@@ -357,7 +357,7 @@
     },
     {
       "scope": "entity.name.function",
-      "settings": { "foreground": "#fb9c038a", "fontStyle": "italic" }
+      "settings": { "foreground": "#fb9c038a" }
     },
     { "scope": "entity.name.type", "settings": { "foreground": "#f573ba" } },
     { "scope": "support.type", "settings": { "foreground": "#f573ba" } },
