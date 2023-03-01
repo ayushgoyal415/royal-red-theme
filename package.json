@@ -22,7 +22,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Royal Red Theme",
+        "id": "Royal Red Theme - Vibrant",
+        "label": "Royal Red Theme - Vibrant",
         "uiTheme": "vs-dark",
         "path": "./themes/Royal Red Theme-color-theme.json"
       }
