@@ -2,11 +2,11 @@
 
 ## Vibrant Syntax Highlighting
 
-![](https://github.com/ayushgoyal415/royal-red-theme/blob/master/assets/editor.png)
+![](/assets/editor.png)
 
 ## Brilliant Shadows
 
-![](https://github.com/ayushgoyal415/royal-red-theme/blob/master/assets/shadow.png)
+![](/assets/shadow.png)
 
 ## Installation
 
